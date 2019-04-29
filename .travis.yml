@@ -10,4 +10,4 @@ install:
 
 #command to run the test suite
 script:
-  - python budgetproject/manage.py test
+  - python3 manage.py test budget

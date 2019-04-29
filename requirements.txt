@@ -1,4 +1,4 @@
-Djangoasn1crypto==0.24.0
+asn1crypto==0.24.0
 beautifulsoup4==4.5.1
 cryptography==2.1.4
 Django==1.11.20

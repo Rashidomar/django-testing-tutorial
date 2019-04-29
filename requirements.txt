@@ -1,12 +1,2 @@
-asn1crypto==0.24.0
-beautifulsoup4==4.5.1
-cryptography==2.1.4
-Django==1.11.20
-dnslib==0.9.6
-enum34==1.1.6
-future==0.16.0
-idna==2.6
-ipaddress==1.0.17
-IPy==0.83
-keyring==10.6.0
-keyrings.alt==3.0
+Django==2.1.7
+

@@ -5,7 +5,7 @@ python:
 
 #commands to install dependencies
 install:
-  - pip install -q Django==$DJANGO
+  - pip install -q Djang
   - pip install -q -r requirements.txt
 
 
